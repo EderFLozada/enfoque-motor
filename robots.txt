@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://ederflozada.github.io/enfoque-motor/sitemap.xml
